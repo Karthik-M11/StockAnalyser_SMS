@@ -17,4 +17,4 @@ Create a new account on twilio and follow the instructions to generate necessary
 Copy-paste the credentials into the code.
   
   
-**The code can be set to run on specific intervals using cloud servers such as google cloud to send the SMS automatically if needed.**
+**The code can be set to run on specific intervals using cloud servers such as google cloud to send the SMS automatically.**
